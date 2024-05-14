@@ -13,3 +13,6 @@ public:
     void cetakData();
     void isiData();
 };
+
+// Definisi member Function
+angka::angka(int i)  // Constructor
