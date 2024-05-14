@@ -2,4 +2,6 @@
 using namespace std;
 #include <string>
 
+class mahasiswa
+{
 
