@@ -7,3 +7,6 @@ public:
     int nim;
     string nama;
 
+public:
+    mahasiswa()
+   
