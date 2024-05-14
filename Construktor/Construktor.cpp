@@ -18,3 +18,8 @@ public:
     {
         nim = iNim;
     }
+
+    mahasiswa(string iNama)
+    {
+        nama = iNama;
+    };
