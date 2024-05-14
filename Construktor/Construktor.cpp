@@ -14,4 +14,6 @@ public:
         nama = "";
     };
 
+    mahasiswa(int iNim)
    
+
