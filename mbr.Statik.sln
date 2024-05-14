@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mbr.Statik", "mbr.Statik\mb
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mbr_StatikFunction", "mbr_StatikFunction\mbr_StatikFunction.vcxproj", "{F9AE5944-8C97-4A4E-87A4-506F5BC95F23}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Construktor", "Construktor\Construktor.vcxproj", "{1FA094CA-4AC3-409D-86D1-CC9608C27085}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{F9AE5944-8C97-4A4E-87A4-506F5BC95F23}.Release|x64.Build.0 = Release|x64
 		{F9AE5944-8C97-4A4E-87A4-506F5BC95F23}.Release|x86.ActiveCfg = Release|Win32
 		{F9AE5944-8C97-4A4E-87A4-506F5BC95F23}.Release|x86.Build.0 = Release|Win32
+		{1FA094CA-4AC3-409D-86D1-CC9608C27085}.Debug|x64.ActiveCfg = Debug|x64
+		{1FA094CA-4AC3-409D-86D1-CC9608C27085}.Debug|x64.Build.0 = Debug|x64
+		{1FA094CA-4AC3-409D-86D1-CC9608C27085}.Debug|x86.ActiveCfg = Debug|Win32
+		{1FA094CA-4AC3-409D-86D1-CC9608C27085}.Debug|x86.Build.0 = Debug|Win32
+		{1FA094CA-4AC3-409D-86D1-CC9608C27085}.Release|x64.ActiveCfg = Release|x64
+		{1FA094CA-4AC3-409D-86D1-CC9608C27085}.Release|x64.Build.0 = Release|x64
+		{1FA094CA-4AC3-409D-86D1-CC9608C27085}.Release|x86.ActiveCfg = Release|Win32
+		{1FA094CA-4AC3-409D-86D1-CC9608C27085}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
