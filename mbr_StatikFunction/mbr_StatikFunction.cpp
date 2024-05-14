@@ -24,3 +24,5 @@ public:
         setId();
     }
 };
+
+int mahasiswa::nim = 0;
