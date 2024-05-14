@@ -15,4 +15,7 @@ public:
     void setId();
     void printAll();
 
+    static void setNim(int pnim) { nim = pnim; }
+    static int getNim() { return nim; }
+
    
