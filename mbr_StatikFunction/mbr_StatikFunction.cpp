@@ -12,4 +12,7 @@ public:
     int id;
     string nama;
 
+    void setId();
+    void printAll();
+
    
