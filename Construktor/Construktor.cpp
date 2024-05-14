@@ -15,5 +15,6 @@ public:
     };
 
     mahasiswa(int iNim)
-   
-
+    {
+        nim = iNim;
+    }
